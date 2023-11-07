@@ -1,0 +1,9 @@
+.parentImg{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+.childImg{
+    width: 100%;
+    height: 100%;
+}

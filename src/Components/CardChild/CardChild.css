@@ -1,0 +1,7 @@
+.child {
+    margin-top: 10px;
+    width: 200px;
+    box-shadow: 0 0  15px black;
+    border-radius: 10px;
+    border: 2px solid black;
+  }

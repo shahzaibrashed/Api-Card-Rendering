@@ -1,0 +1,27 @@
+.parentProduct{
+display: flex;
+justify-content: space-between;
+height: 70px;
+background-color:cadetblue;
+position: fixed;
+width: 100%;
+}
+
+.NavbarLogo{
+    height: 50px;
+    width: 200px;
+    margin-top: 8px;
+    text-align: center;
+    margin-left: 10px;
+}
+.navImg{
+    text-align: center;
+    font-size: 40px;
+    width: 100px;
+    margin: 4px;
+    margin-right: 10px;
+}
+span{
+    color: red;
+    font-size: 20px;
+}

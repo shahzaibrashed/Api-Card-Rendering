@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parents{
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3vh;
+    flex-wrap: wrap;
+    gap: 10px;
+    text-align: center;
+    
+}
